@@ -1,0 +1,15 @@
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/bin/Debug/net6.0/WeatherForcastApi.deps.json
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/bin/Debug/net6.0/WeatherForcastApi.dll
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/bin/Debug/net6.0/WeatherForcastApi.pdb
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/bin/Debug/net6.0/HelperBox.dll
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/bin/Debug/net6.0/HelperBox.pdb
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/obj/Debug/net6.0/WeatherForcastApi.csproj.AssemblyReference.cache
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/obj/Debug/net6.0/WeatherForcastApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/obj/Debug/net6.0/WeatherForcastApi.AssemblyInfoInputs.cache
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/obj/Debug/net6.0/WeatherForcastApi.AssemblyInfo.cs
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/obj/Debug/net6.0/WeatherForcastApi.csproj.CoreCompileInputs.cache
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/obj/Debug/net6.0/WeatherForcastApi.csproj.CopyComplete
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/obj/Debug/net6.0/WeatherForcastApi.dll
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/obj/Debug/net6.0/refint/WeatherForcastApi.dll
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/obj/Debug/net6.0/WeatherForcastApi.pdb
+/Users/ryanye/Projects/LearnCSharp/WeatherForcast/obj/Debug/net6.0/ref/WeatherForcastApi.dll

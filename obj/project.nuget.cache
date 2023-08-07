@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gshq1paOyKEF//7ubNMCgJ9bi9z6I+3rJk6MMPIQrGTvBH0irBWEi5v5RzqZ3V2MXpNXYKpgdgXFrRyBxM2ZGw==",
+  "success": true,
+  "projectFilePath": "/Users/ryanye/Projects/LearnCSharp/WeatherForcast/WeatherForcastApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/ryanye/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

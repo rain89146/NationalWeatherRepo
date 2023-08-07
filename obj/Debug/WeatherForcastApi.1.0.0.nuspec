@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>WeatherForcastApi</id>
+    <version>1.0.0</version>
+    <authors>WeatherForcastApi</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="HelperBox" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/ryanye/Projects/LearnCSharp/WeatherForcast/bin/Debug/net6.0/WeatherForcastApi.dll" target="lib/net6.0/WeatherForcastApi.dll" />
+  </files>
+</package>
